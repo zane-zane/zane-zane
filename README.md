@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ASP.NET and React.js
 - 📫 How to reach me? vincent.zane.rodriguez@gmail.com for any inquiries
 - 💭 Need help with programming? Looking to start learning? Come on over to The Coding Den Discord server             
-     invite code: https://discord.gg/code (my username is vince)
+         invite code: https://discord.gg/code (my username is vince)
 
 <!---
 zane-zane/zane-zane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
