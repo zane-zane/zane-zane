@@ -2,7 +2,7 @@
 - 👀 I’m interested in full-stack development, video game development, graphics, networking, algorithms, and ML
 - 🌱 I’m currently learning ASP.NET and React.js
 - 📫 How to reach me? vincent.zane.rodriguez@gmail.com for any inquiries
-- 💭 Need help with programming? Looking to start learning? Come on over to *The Coding Den* -- its a Discord server.             
+- 💭 Need help with programming? Looking to start learning? Come on over to *The Coding Den*.             
     - invite code: https://discord.gg/code (my username is vince)
 
 <!---
